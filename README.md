@@ -1,4 +1,4 @@
-# devdiy-wechatpay-checkout-for-woocommerce
+# devdiy-weixin-wechatpay-checkout-for-woocommerce
 === WordPress WechatPay Payments for WooCommerce 微信支付插件 ===
 Contributors: wordpress.work
 Donate link: https://www.devdiy.com/plugins
