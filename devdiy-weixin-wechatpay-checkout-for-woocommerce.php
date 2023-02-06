@@ -1,8 +1,8 @@
 <?php
 /*
  * Plugin Name: Devdiy WeiXin Wechatpay Checkout Payments for WooCommerce
- * Plugin URI: https://www.devdiy.com
- * Description:给Woocommerce系统添加微信Native扫码及H5支付功能,支持扫码支付和退款功能。若需要企业版本，请访问<a href="http://www.devdiy.com" target="_blank">http://www.devdiy.com</a>
+ * Plugin URI: https://www.devdiy.com/plugin/3015.html
+ * Description:给Woocommerce系统添加微信Native扫码及H5支付功能,支持扫码支付和退款功能。若需要企业版本，请访问<a href="https://www.devdiy.com" target="_blank">https://www.devdiy.com</a>
  * Version: 2.0.1
  * Author: DEVDIY开发者
  * Author URI:https://www.devdiy.com
@@ -327,7 +327,7 @@ class WC_Devdiy_Wechatpay_Gateway extends WC_Payment_Gateway {
 
 	/**
 	 * Archer[[:space:]]Framework
-	 * [Archer!] (C)2006-2022 devdiy Inc. (http://www.devdiy.com)
+	 * [Archer!] (C)2006-2022 devdiy Inc. (https://www.devdiy.com)
 	 *
 	 * 判断是否是移动设备
 	 * @gary

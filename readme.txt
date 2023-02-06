@@ -1,19 +1,18 @@
-=== WordPress WechatPay Payments for WooCommerce 微信支付插件 ===
+=== Devdiy Wechatpay Checkout For Woocommerce 微信支付插件 ===
 Contributors: wordpress.work
 Donate link: https://www.devdiy.com/plugins
-Tags:wechat,微信,微信支付,weixin,wechatpay, wordpress plugin, payments, wechat payments, woocommerce
+Tags:微信,微信支付,wechat,weixin,wechatpay, wordpress plugin, payments, wechat payments, woocommerce,paypal
 Requires at least: 5.0
+Requires PHP: 7.2
 Stable tag: 2.2.0
-Tested up to: 5.1.1
+Tested up to: 6.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 真正可用的微信支付插件,支持PC扫码支付,支持退款,支持汇率.
 
 == Description ==
-
 二维码正常显示，真正可用的微信支付插件,支持PC扫码支付,支持退款,支持汇率，需要开通腾讯官方微信支付商户，如需H5支付和微信红包推广，请购买企业版：<a href="https://www.devdiy.com/plugins" target="_blank">WordPress WooCommerce微信支付红包版</a>
-
 
 = Features for Enterprise version: =
 
